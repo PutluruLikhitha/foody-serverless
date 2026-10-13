@@ -39,3 +39,7 @@ coverage/
 *.local
 *.tmp
 *.bak
+
+# Environment files
+.env
+**/.env
